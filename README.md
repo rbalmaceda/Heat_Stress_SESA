@@ -48,6 +48,6 @@ https://data.meteo.unican.es/
 
 ## Citation
 
-Balmaceda-Huarte R., Casanueva A.,Bettolli M.L., Heat stress conditions in southern South America: characterization and long-term changes under observational uncertainty, 2026.
+Balmaceda-Huarte R., Casanueva A.,Bettolli M.L., Heat stress conditions in southern South America: characterization and long-term changes under observational uncertainty, 2026. doi:10.1088/2752-5295/ae8ff7
 
 ```
